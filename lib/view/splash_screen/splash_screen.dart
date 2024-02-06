@@ -25,7 +25,6 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
-    int a = 10;
     return Scaffold(
       body: Center(
           child: Container(
